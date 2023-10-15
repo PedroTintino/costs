@@ -1,6 +1,6 @@
 import React from 'react'
 import './index.css'
-import {BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
+import {BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Company from './components/pages/Company'
 import Home from './components/pages/Home'
 import Contact from './components/pages/Contact'

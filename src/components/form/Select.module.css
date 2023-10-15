@@ -1,0 +1,17 @@
+.formController{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.formController label{
+    margin-bottom: .6em;
+    font-weight: bold;
+}
+
+.formController select{
+    padding: .7em;
+    border-radius: 0;
+    border: none;
+}
+
